@@ -1,1 +1,1 @@
-# G-JD1-06-13_apetrov
+This is repository with my samples from Java course by high technology park academy
